@@ -1,0 +1,13 @@
+MONGO_URL="Your Mongodb endpoint"
+JWT_SECRET = "Your JWT Secret Key
+REFRESH_TOKEN_SECRET = "Your secret Refresh Token"
+SESSION_EXPIRY = 60 * 15
+REFRESH_TOKEN_EXPIRY = 60 * 60 * 24 * 30
+MONGO_DB_CONNECTION_STRING = mongodb://127.0.0.1:27017/mern_auth
+COOKIE_SECRET = "Your Secret Cookie"
+WHITELISTED_DOMAINS = "Your Domain
+OAUTH_REFRESH_TOKEN = "Your Refresh Token"
+OAUTH_CLIENTID = "Your OATH CLIENT ID"
+MAIL_USERNAME = "Your Email"
+MAIL_PASSWORD = "Your Password"
+OAUTH_CLIENT_SECRET = "Your OATH CLIENT Secret Id"
